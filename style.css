@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cyan;
+}
+.calcContainer{
+background-color: greenyellow;
+border: solid black;
+width: fit-content;
+
+}
+.screen{
+    margin-top: 1em;
+    border: solid red;
+    text-align: center;
+    border-radius: 25em;
+    background-color:antiquewhite
+}
+.numberBtm{
+    border: solid green;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 10em;
+}
+.row{
+display: flex;
+}
+.numberBtm{
+    padding: 20px;
+    width: 15px;
+}
